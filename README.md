@@ -2,8 +2,10 @@
 
 I'm Kristy (she/her)! I'm a product designer with a background in computer science. I'll be graduating from Hunter College in Spring '22. 
 
-🎨 Incoming Product Design Intern @ Shopify
-❤️ Traditional and digital artist and skincare enthusiast
+- 🎨 Incoming Product Design Intern @ Shopify
+
+- 💖 Traditional and digital artist and skincare enthusiast
+
 
 <!--
 **kl408/kl408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
