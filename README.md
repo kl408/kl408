@@ -2,9 +2,13 @@
 
 I'm Kristy (she/her)! I'm a product designer with a background in computer science, graduating from Hunter College in Spring '22. Asides from product design, I also do web development, video game design, and volunteer for educational and professional development programs. 
 
+📍 Based in New York, NY
+
 🎨 Incoming Product Design Intern @ Shopify
 
 💛 Traditional and digital artist and skincare enthusiast
+
+Feel free to reach out if you wanna talk about careers in UX/UI Design, especially if you're a CUNY student!
 
 
 <!--
