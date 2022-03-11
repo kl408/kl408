@@ -1,10 +1,10 @@
 ### Hi! 🌱
 
-I'm Kristy (she/her)! I'm a product designer with a background in computer science. I'll be graduating from Hunter College in Spring '22. 
+I'm Kristy (she/her)! I'm a product designer with a background in computer science, graduating from Hunter College in Spring '22. Asides from product design, I also do web development, video game design, and volunteer for educational and professional development programs on the side. 
 
-- 🎨 Incoming Product Design Intern @ Shopify
+🎨 Incoming Product Design Intern @ Shopify
 
-- 💖 Traditional and digital artist and skincare enthusiast
+💛 Traditional and digital artist and skincare enthusiast
 
 
 <!--
