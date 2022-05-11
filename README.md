@@ -4,7 +4,7 @@ I'm Kristy (she/her)! I'm a product designer with a background in computer scien
 
 📍 Based in New York, NY
 
-🎨 Incoming Product Design Intern @ Shopify
+🎨 Product Design Intern @ Shopify
 
 💛 Traditional and digital artist and skincare enthusiast
 
